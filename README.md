@@ -36,11 +36,6 @@ Il repose sur une fonction appelée **Q-table** :
 
 ---
 
-##  Objectif
-Apprendre une **politique optimale** permettant de maximiser la récompense cumulée au fil du temps.
-
----
-
 ##  Exécution
 ```bash
 jupyter notebook Qlearning.ipynb
