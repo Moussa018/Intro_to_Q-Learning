@@ -17,7 +17,7 @@ Il repose sur une fonction appelée **Q-table** :
 
 ###  Mise à jour
 
-##Q(s,a) = Q(s,a) + α [ r + γ max Q(s',a') - Q(s,a) ]
+==> Q(s,a) = Q(s,a) + α [ r + γ max Q(s',a') - Q(s,a) ]
 
 - **α (alpha)** : taux d’apprentissage  
 - **γ (gamma)** : facteur de réduction  
