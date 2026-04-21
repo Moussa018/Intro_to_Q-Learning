@@ -10,8 +10,7 @@ L’objectif est de permettre à un agent d’apprendre une stratégie optimale 
 Le Q-Learning est un algorithme **model-free**, ce qui signifie qu’il ne nécessite pas de modèle de l’environnement.
 
 Il repose sur une fonction appelée **Q-table** :
-                                        Q(s, a)
-
+- ***Q(s, a)***
 - **s** : état (state)  
 - **a** : action (action)  
 - **Q(s,a)** : valeur estimée de l’action dans cet état  
