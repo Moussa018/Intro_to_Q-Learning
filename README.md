@@ -41,13 +41,6 @@ Apprendre une **politique optimale** permettant de maximiser la récompense cumu
 
 ---
 
-##  Technologies utilisées
-- Python  
-- NumPy  
-- Jupyter Notebook  
-
----
-
 ##  Exécution
 ```bash
 jupyter notebook Qlearning.ipynb
